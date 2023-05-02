@@ -2,3 +2,6 @@
 ***
 
 This repository will contain useful content that will help me in studying for the Comptia Security+ certificate.
+
+## **Table of Contents**
+
